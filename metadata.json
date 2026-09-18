@@ -1,0 +1,6 @@
+{
+  "name": "Executive Portrait Studio",
+  "description": "Transform casual photos into professional executive headshots using AI-powered business formal standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
